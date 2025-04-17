@@ -1,0 +1,13 @@
+Flask==2.1.1
+SQLAlchemy==1.4.31
+PyMongo==3.12.0
+
+
+# This will help other developers set up their environments quickly with the following command:
+
+"""
+
+pip install -r requirements.txt
+
+"""
+
